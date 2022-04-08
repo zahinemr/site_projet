@@ -1,0 +1,17 @@
+[
+   {
+	    "idBorne": 1,
+	    "salle": "GR01",
+	    "etablissement": "LJR",
+	   "nivGel": 100,
+	    "nivBatterie": 100
+    },
+
+    {
+	"idBorne": 2,
+	"salle": "GR02",
+	"etablissement": "LJR",
+	"nivGel": 100,
+	"nivBatterie": 100
+    }
+]
