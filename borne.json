@@ -1,17 +1,16 @@
 [
-   {
-	    "idBorne": 1,
-	    "salle": "GR01",
-	    "etablissement": "LJR",
-	   "nivGel": 100,
-	    "nivBatterie": 100
-    },
-
-    {
-	"idBorne": 2,
-	"salle": "GR02",
-	"etablissement": "LJR",
-	"nivGel": 100,
-	"nivBatterie": 100
-    }
+	{
+		"id": 1,
+		"nivGel": 55,
+		"nivBat": 56,
+		"salle": "GR011",
+		"etablissement": "Jean Rostand"
+	},
+	{
+		"id": 2,
+		"nivGel": 58,
+		"nivBat": 22,
+		"salle": "HT02",
+		"etablissement": "test"
+	}
 ]
